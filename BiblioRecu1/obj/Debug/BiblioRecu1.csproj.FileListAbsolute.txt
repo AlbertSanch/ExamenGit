@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\BiblioRecu1\BiblioRecu1\bin\Debug\BiblioRecu1.dll
+C:\Users\usuario\source\repos\BiblioRecu1\BiblioRecu1\bin\Debug\BiblioRecu1.pdb
+C:\Users\usuario\source\repos\BiblioRecu1\BiblioRecu1\obj\Debug\BiblioRecu1.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\BiblioRecu1\BiblioRecu1\obj\Debug\BiblioRecu1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\BiblioRecu1\BiblioRecu1\obj\Debug\BiblioRecu1.dll
+C:\Users\usuario\source\repos\BiblioRecu1\BiblioRecu1\obj\Debug\BiblioRecu1.pdb
